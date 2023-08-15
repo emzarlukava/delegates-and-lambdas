@@ -141,13 +141,6 @@ The task has 7 sub-tasks. Each sub-task is a small coding exercise.
 
 The detailed explanations of the task are provided in the XML-comments for the methods and in test cases of unit tests.
 
-## Task Checklist
-
-* Build a solution in [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/building-and-cleaning-projects-and-solutions-in-visual-studio?view=vs-2019). Make sure there are **no compiler errors and warnings**, fix these issues and rebuild the solution. 
-* Run all unit tests with [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/test/run-unit-tests-with-test-explorer?view=vs-2019) and make sure there are **no failed unit tests**. Fix your code to [make all tests GREEN](https://stackoverflow.com/questions/276813/what-is-red-green-testing). 
-* Review all your changes in the codebase **before** [staging the changes and creating a commit](https://docs.microsoft.com/en-us/azure/devops/repos/git/commits?view=azure-devops&tabs=visual-studio). 
-* [Stage your changes, create a commit](https://docs.microsoft.com/en-us/azure/devops/repos/git/commits?view=azure-devops&tabs=visual-studio), and publish your changes to the remote repository. 
-
 ## See also
 
 - [Delegates (C# Programming Guide)](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms173171(v=vs.100))
